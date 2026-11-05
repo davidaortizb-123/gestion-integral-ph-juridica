@@ -1,1 +1,0 @@
-<?php get_header(); ?><main class="not-found"><div class="wrap"><span class="eyebrow">Error 404</span><h1>Página no encontrada.</h1><p>Es posible que el enlace haya cambiado o que la página ya no esté disponible.</p><a class="button button-dark" href="<?php echo esc_url(home_url('/')); ?>">Volver al inicio</a></div></main><?php get_footer(); ?>
